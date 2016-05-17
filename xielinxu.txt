@@ -16,4 +16,5 @@ Git
 \f0\b0 \cf2  free software.\
 add haha.\
 add 
-\f2 two.}
+\f2 two.\
+Git tracks changes.}
