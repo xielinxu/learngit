@@ -1,1 +1,1 @@
-ready to delete
+delete from newone
